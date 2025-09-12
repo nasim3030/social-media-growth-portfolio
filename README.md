@@ -1,5 +1,5 @@
 # social-media-growth-portfolio
-Case studies and results from my work in social media growth, YouTube SEO, and influencer marketing.
+Case studies and results from my work in social media growth, YouTube SEO, and Pinterest influencer marketing.
 # 🌐 Social Media Growth Portfolio
 
 ## 👋 About Me
