@@ -1,2 +1,60 @@
 # social-media-growth-portfolio
-My portfolio showcasing case studies in Social Media Growth, YouTube SEO, and Pinterest marketing.
+Case studies and results from my work in social media growth, YouTube SEO, and influencer marketing.
+# 🌐 Social Media Growth Portfolio
+
+## 👋 About Me
+Hi, I am Nasim Rana.  
+I specialize in organic social media growth across Instagram, YouTube SEO, Pinterest, X (Twitter), and TikTok.
+My focus is on helping brands, creators, and agencies achieve measurable, long-term growth without relying on paid advertising. 
+
+---
+
+## 📊 Platforms & Case Studies
+
+### 📸 Instagram
+- Grew a personal brand account from 0 → 50K followers in 90 days  
+- Increased engagement rate from 2% → 8% using reels + stories strategy  
+- Built content calendar using Google Trends + viral content analysis  
+
+### 🎥 YouTube SEO
+- Ranked videos on **#1 position** for competitive keywords  
+- Helped a channel grow from 1K → 50K subscribers within 6 months  
+- Optimized metadata, thumbnails, and retention for organic reach  
+
+### 📌 Pinterest
+- Generated **700K+ monthly views** across 3 accounts  
+- Viral pin strategy using trend-based designs  
+- Drove thousands of clicks to blog/website organically  
+
+### 🐦 X (Twitter)
+- Created trending threads that reached 100K+ impressions  
+- Boosted follower growth with organic engagement strategies  
+
+### 🎵 TikTok
+- Managed viral content strategy (short-form hooks + captions)  
+- Helped one creator grow from 0 → 20K followers in 30 days  
+
+---
+
+## 🚀 Services I Offer
+- Instagram organic growth strategies  
+- YouTube SEO & keyword ranking  
+- Pinterest traffic growth using trends  
+- X/Twitter threads & engagement growth  
+- TikTok short-form viral content strategy  
+
+---
+
+## 📂 Work Samples
+- 📸 [Instagram Case Study Screenshot](link)  
+- 🎥 [YouTube SEO Report](link)  
+- 📊 [Pinterest Analytics PDF](link)  
+- 🐦 [Twitter Growth Screenshot](link)  
+- 🎵 [TikTok Analytics Screenshot](link)  
+
+---
+
+## 📬 Contact
+- Email: youremail@example.com  
+- LinkedIn: yourlinkedin  
+- Website: yoursite.com
