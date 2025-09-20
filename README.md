@@ -48,7 +48,7 @@ My focus is on helping brands, creators, and agencies achieve measurable, long-t
 ## 📂 Work Samples
 - 📸 [Instagram Case Study Screenshot](link)  
 - 🎥 [YouTube SEO Report](link)  
-- 📊 [Pinterest Analytics PDF](link)  
+- 📊 [Pinterest Analytics PDF]([link: https://drive.google.com/file/d/1tW1LnbSq52xOGfIyxD2rXXEUMHLop246/view?usp=sharing)]  
 - 🐦 [Twitter Growth Screenshot](link)  
 - 🎵 [TikTok Analytics Screenshot](link)  
 
