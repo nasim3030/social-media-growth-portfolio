@@ -4,7 +4,7 @@ Case studies and results from my work in social media growth, YouTube SEO, and P
 
 ## 👋 About Me
 Hi, I am Nasim Rana.  
-I specialize in organic social media growth across Instagram, YouTube SEO, Pinterest, X (Twitter), and TikTok.
+I specialize in organic social media growth across Instagram, YouTube SEO, Pinterest and X (Twitter).
 My focus is on helping brands, creators, and agencies achieve measurable, long-term growth without relying on paid advertising. 
 
 ---
@@ -38,7 +38,6 @@ My focus is on helping brands, creators, and agencies achieve measurable, long-t
 - YouTube SEO & keyword ranking  
 - Pinterest traffic growth using trends  
 - X/Twitter threads & engagement growth  
-- TikTok short-form viral content strategy  
 
 ---
 
