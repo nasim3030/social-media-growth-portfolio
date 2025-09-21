@@ -50,5 +50,5 @@ My focus is on helping brands, creators, and agencies achieve measurable, long-t
 ---
 
 ## 📬 Contact  UpDate Soon
-- Email: youremail@example.com  
-- Website: yoursite.com
+- Email: contact@fastfooditem.com  
+- Website: fastfooditem.com
